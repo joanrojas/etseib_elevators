@@ -3,7 +3,7 @@
 For optimisation&simulation class. It consists of an algorithm I designed together with a classmate to simulate 
 the elevator system at my university. 
 
-### 1. Brief files description
+### 1. Files description
 
 *_cua.py_* is stores the queue formed at the lowest floor. 
 
