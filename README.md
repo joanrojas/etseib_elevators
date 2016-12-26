@@ -1,4 +1,4 @@
-# etseib_elevators
+# Optimisation and Simulation - Elevator's modelling
 
 For optimisation&simulation class. It consists of an algorithm I designed together with a classmate to simulate 
 the elevator system at my university. 
